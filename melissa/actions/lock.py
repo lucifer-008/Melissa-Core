@@ -17,9 +17,9 @@ while (loop == 'true'):
     if (username == CorrectUsername):
     	password = raw_input("Please enter your password: ")
         if (password == CorrectPassword):
-            print "Logged in successfully as " + username
+            print( "Logged in successfully as " + username)
             loop = 'false'
         else:
-            print "Password incorrect!"
+            print( "Password incorrect!")
     else:
-        print "Username incorrect!"
+        print ("Username incorrect!")
