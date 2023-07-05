@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:kinetic
 
 MAINTAINER Tanay Pant "tanay1337@gmail.com"
 
