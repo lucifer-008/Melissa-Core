@@ -10,3 +10,4 @@ pytest-flake8==0.8.1
 
 # This is included here to pass the Travis check.
 # https://launchpad.net/python-weather-api/trunk/0.3.8/+download/pywapi-0.3.8.tar.gz
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
