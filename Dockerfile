@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:24.10
 
 MAINTAINER Tanay Pant "tanay1337@gmail.com"
 
