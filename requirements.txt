@@ -6,7 +6,7 @@ requests-oauthlib==0.5.0
 eventlet==0.20.0
 Flask==0.12
 Flask-SocketIO==2.8.6
-python-socketio==1.6.1
+python-socketio==5.14.0
 
 # Business News Reader
 beautifulsoup4==4.4.1
